@@ -1,0 +1,19 @@
+{
+  "name": "node_express_mysql_crud",
+  "version": "1.0.0",
+  "description": "A simple CRUD APP using mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ali Imran Adil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
